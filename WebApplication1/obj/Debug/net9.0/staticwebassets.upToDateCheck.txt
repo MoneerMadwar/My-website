@@ -1,2 +1,0 @@
-C:\Users\MONEER\source\repos\WebApplication1\WebApplication1\wwwroot\index.html
-wwwroot\index.html
